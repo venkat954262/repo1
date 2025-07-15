@@ -1,3 +1,4 @@
 This is file A
 New line addition
+New change done in branch1 for pull request
 New line addition in branch2
